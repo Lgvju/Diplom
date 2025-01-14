@@ -1,0 +1,173 @@
+{
+    "name": "shouldFailToCreateNewsWithEmptyFieldsAndShowMessage",
+    "start": 1736883991082,
+    "stop": 1736884002436,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Загрузка приложения",
+            "start": 1736883991643,
+            "stop": 1736883991643,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Загрузка страницы",
+            "start": 1736883992774,
+            "stop": 1736883992774,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Открытие раздела \"Новости\"",
+            "start": 1736883997023,
+            "stop": 1736883997023,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в панель управления со страницы Новости",
+            "start": 1736883997783,
+            "stop": 1736883997783,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажать кнопку создание новости",
+            "start": 1736884000864,
+            "stop": 1736884000865,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие кнопки Сохранить",
+            "start": 1736884001360,
+            "stop": 1736884001361,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка сообщения",
+            "start": 1736884001775,
+            "stop": 1736884001775,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "f02b2366-1757-4c7f-a7aa-7a0d90e96bce",
+    "historyId": "c99f768d4ed95cc1d97d477fd93858a",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.CreateNewsTest.shouldFailToCreateNewsWithEmptyFieldsAndShowMessage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldFailToCreateNewsWithEmptyFieldsAndShowMessage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.CreateNewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(816)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "feature",
+            "value": "Тесты по разделу Новостей"
+        },
+        {
+            "name": "story",
+            "value": "Cоздание новости с пустыми данными"
+        }
+    ]
+}
