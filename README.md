@@ -5,11 +5,12 @@
 [Ссылка на задание](https://github.com/netology-code/qamid-diplom)
 
 ## Документация
-[План тестирования](https://github.com/Lgvju/Diplom/blob/main/Plan.md)
-[Чек-лист](https://github.com/Lgvju/Diplom/blob/main/Check.xlsx)
-[Тест-кейсы](https://github.com/Lgvju/Diplom/blob/main/Cases.xlsx)
-[Отчет о тестировании](https://github.com/Lgvju/Diplom/blob/main/Result.md)
-Запуск приложения и тестов 
+-[План тестирования](https://github.com/Lgvju/Diplom/blob/main/Plan.md)
+
+-[Чек-лист](https://github.com/Lgvju/Diplom/blob/main/Check.xlsx)
+-[Тест-кейсы](https://github.com/Lgvju/Diplom/blob/main/Cases.xlsx)
+-[Отчет о тестировании](https://github.com/Lgvju/Diplom/blob/main/Result.md)
+# Запуск приложения и тестов 
 ## Окружение, на котором осуществлялись разработка и прогон автотестов:
 * Java: 
   * openjdk 11.0.18 2023-01-17
